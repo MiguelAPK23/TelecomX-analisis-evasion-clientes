@@ -1,3 +1,6 @@
+## Dataset
+
+Los datos fueron obtenidos desde la API proporcionada en el challenge de Alura LATAM y contienen información sobre clientes, servicios contratados, método de pago y estado de churn.
 # Telecom X – Análisis y evasión de clientes
 
 Proyecto de análisis exploratorio de datos para identificar posibles causas de evasión de clientes (Churn) en la empresa Telecom X.
